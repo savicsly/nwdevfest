@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://hoverboard-master.firebaseapp.com/",
+  "analytics": "UA-43643469-9",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyB2oYkw_D4aNO6Jt16iT6RLQb_bJ78TEwM",
+    "authDomain": "nwdevfest.firebaseapp.com",
+    "databaseURL": "https://nwdevfest.firebaseio.com",
+    "projectId": "nwdevfest",
+    "storageBucket": "nwdevfest.appspot.com",
+    "messagingSenderId": "356863198493"
+  },
+  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+}
