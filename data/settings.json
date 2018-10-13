@@ -115,17 +115,17 @@
     "label": "Location",
     "name": "Kaduna ICT Hub",
     "short": "Kd, Nigeria",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "address": "47 Kanta Road / Independence Way, Kaduna, Nigeria",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 9.7545961,
+      "longitude": 6.8830302,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "World class Hub that trains in web/ mobile app, hardware, AI, IoT, blockchain technologies. An outsourcing firm which companies can outsource their tech needs."
   },
   "mediaQueries": {
     "xs": {
@@ -147,23 +147,23 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDG-Kaduna/events/254113933/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/nwdevfest/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "#"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "#"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "#"
       }
     ],
     "share": [
