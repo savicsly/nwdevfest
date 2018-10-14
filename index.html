@@ -58,7 +58,7 @@
   <meta property="og:description" content="{$ description $}">
   <meta property="og:type" content="Event">
   <meta property="og:image" content="{$ image if image.startsWith('http') else (url + image) $}">
-  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image:type" content="image/jpeg" />
 
   <!-- Twitter meta data -->
   <meta name="twitter:card" content="summary_large_image">
@@ -117,7 +117,10 @@
         });
 
         const firestore = firebase.firestore();
+        // const firestore = new firestore();
+        // const settings = { timestampsInSnapshots: true };
         firestore.settings({ timestampsInSnapshots: true });
+        firsetore.settings(settings);
         firebase.firestore().enablePersistence()
           .catch(() => {
             console.warn('DB offline support not available'); // eslint-disable-line no-console
@@ -135,8 +138,8 @@
   <script src="scripts/service-worker-registration.js" async defer></script>
 
   <style>
-
-    html, body {
+    html,
+    body {
       min-height: 100%;
       height: 100%;
     }
@@ -171,24 +174,24 @@
 
 </head>
 
-<body>
+<body style>
 
-<!--<hoverboard-app unresolved>{$ title $}</hoverboard-app>-->
+  <!--<hoverboard-app unresolved>{$ title $}</hoverboard-app>-->
 
-<noscript>
-  Please enable JavaScript to view this website.
-</noscript>
+  <noscript>
+    Please enable JavaScript to view this website.
+  </noscript>
 
-<script>
-  window.performance && performance.mark && performance.mark('index.html');
+  <script>
+    window.performance && performance.mark && performance.mark('index.html');
 
-  window.onload = function () {
-    const indexRenderTime = window.measureDuration && window.measureDuration('index.html');
-    if (indexRenderTime) {
-      ga('send', 'timing', 'index.html', 'render', indexRenderTime);
-    }
-  };
-</script>
+    window.onload = function () {
+      const indexRenderTime = window.measureDuration && window.measureDuration('index.html');
+      if (indexRenderTime) {
+        ga('send', 'timing', 'index.html', 'render', indexRenderTime);
+      }
+    };
+  </script>
 
 </body>
 
