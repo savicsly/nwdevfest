@@ -1,7 +1,9 @@
 import admin from 'firebase-admin';
 import serviceAccount from '../serviceAccount';
+import { Firestore } from '@google-cloud/firestore';
 
 let firestore = null;
+// const firestore = new Firestore();
 export function initializeFirebase() {
   return new Promise((resolve) => {
 

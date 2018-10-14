@@ -1,9 +1,9 @@
 {
   "organizer": {
     "name": "GDG DevFest North West",
-    "twitter": "gdglviv",
+    "twitter": "nwdevfest",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "http://nwdevfest.com/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -70,14 +70,6 @@
       },
       "fontColor": "#424242"
     },
-    "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
-    },
     "schedule": {
       "title": "Schedule",
       "metaDescription": "Choose your sessions to visit",
@@ -125,7 +117,7 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "World class Hub that trains in web/ mobile app, hardware, AI, IoT, blockchain technologies. An outsourcing firm which companies can outsource their tech needs."
+    "description": "DevFest NW 18 will take place at KadICT Hub a world class Hub that trains in web/ mobile app, hardware, AI, IoT, blockchain technologies."
   },
   "mediaQueries": {
     "xs": {
@@ -155,7 +147,7 @@
       },
       {
         "name": "twitter",
-        "url": "#"
+        "url": "https://twitter.com/NWDevfest"
       },
       {
         "name": "instagram",
@@ -219,9 +211,6 @@
     },
     "speakers": {
       "itemsCount": 4
-    },
-    "previousSpeakers": {
-      "itemsCount": 6
     },
     "tickets": {
       "itemsCount": 5

@@ -24,28 +24,6 @@ const importSpeakers = () => {
     });
 };
 
-const importPreviousSpeakers = () => {
-  const previousSpeakers = data.previousSpeakers;
-  console.log('\tImporting', Object.keys(previousSpeakers).length, 'previous speakers...');
-
-  const batch = firestore.batch();
-
-  Object.keys(previousSpeakers).forEach((speakerId, order) => {
-    batch.set(
-      firestore.collection('previousSpeakers').doc(speakerId),
-      {
-        ...previousSpeakers[speakerId],
-        order,
-      },
-    );
-  });
-
-  return batch.commit()
-    .then(results => {
-      console.log('\tImported data for', results.length, 'previous speakers');
-      return results;
-    });
-};
 
 const importTeam = () => {
   const teams = data.team;
@@ -82,9 +60,11 @@ const importPartners = () => {
 
   Object.keys(partners).forEach((docId) => {
     batch.set(
-        firestore.collection('partners').doc(docId),
-        { title: partners[docId].title,
-          order: partners[docId].order },
+      firestore.collection('partners').doc(docId),
+      {
+        title: partners[docId].title,
+        order: partners[docId].order
+      },
     );
 
     partners[docId].logos.forEach((item, id) => {
@@ -145,28 +125,6 @@ const importBlog = () => {
     });
 };
 
-const importVideos = () => {
-  const docs = data.videos;
-  console.log('\tImporting videos...');
-
-  const batch = firestore.batch();
-
-  Object.keys(docs).forEach((docId) => {
-    batch.set(
-      firestore.collection('videos').doc(`${docId}`.padStart(3, 0)),
-      {
-        ...docs[docId],
-        order: docId,
-      },
-    );
-  });
-
-  return batch.commit()
-    .then(results => {
-      console.log('\tImported data for', results.length, 'videos');
-      return results;
-    });
-};
 
 const importTickets = () => {
   const docs = data.tickets;
@@ -221,8 +179,8 @@ const importSchedule = () => {
     batch.set(
       firestore.collection('schedule').doc(docId),
       {
-          ...docs[docId],
-          date: docId,
+        ...docs[docId],
+        date: docId,
       },
     );
   });
@@ -257,13 +215,11 @@ initializeFirebase()
   .then(() => importGallery())
   .then(() => importNotificationsConfig())
   .then(() => importPartners())
-  .then(() => importPreviousSpeakers())
   .then(() => importSchedule())
   .then(() => importSessions())
   .then(() => importSpeakers())
   .then(() => importTeam())
   .then(() => importTickets())
-  .then(() => importVideos())
 
   .then(() => {
     console.log('Finished');

@@ -1,7 +1,7 @@
 {
   "basepath": "/",
-  "url": "https://nwdevfest.netlify.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://nwdevfest.com/",
+  "analytics": "UA-127452791-1",
   "prefix": "/",
   "firebase": {
     "apiKey": "AIzaSyB2oYkw_D4aNO6Jt16iT6RLQb_bJ78TEwM",
@@ -11,5 +11,5 @@
     "storageBucket": "nwdevfest.appspot.com",
     "messagingSenderId": "356863198493"
   },
-  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+  "googleMapApiKey": "AIzaSyA3sNcA40Ojyy0aMh9t1WJM8M_v1Lc1UJo"
 }
