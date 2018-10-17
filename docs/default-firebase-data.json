@@ -224,7 +224,7 @@
       "title": "Registration &amp; Tag Collection"
     },
     "102": {
-      "description": "Official starting of the conference with a keynote address by Aminu Ibrahim the Lead GDG Cloud Kaduna",
+      "description": "Keynote Address",
       "icon": "opening",
       "language": "English",
       "speakers": [
@@ -278,7 +278,7 @@
     },
     "107": {
       "complexity": "Beginner",
-      "description": "",
+      "description": "Firebase",
       "extend": 2,
       "language": "English",
       "speakers": [
@@ -290,28 +290,15 @@
       "title": "Firebase"
     },
     "108": {
-      "complexity": "Intermediate",
-      "description": "",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "robert_john"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Google Could Computing"
-    },
-    "109": {
       "description": "Lunch Break",
       "language": "English",
       "title": "Lunch Break"
     },
-    "110": {
+    "109": {
       "complexity": "Intermediate",
       "description": "Google Cloud Computing",
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
+      "presentation": "",
       "speakers": [
         "robert_john"
       ],
@@ -320,7 +307,7 @@
       ],
       "title": "Google Cloud Computing"
     },
-    "111": {
+    "110": {
       "complexity": "Intermediate",
       "description": "Flutter",
       "language": "English",
@@ -333,7 +320,7 @@
       ],
       "title": "Flutter"
     },
-    "112": {
+    "111": {
       "complexity": "Intermediate",
       "description": "Android",
       "language": "English",
@@ -345,12 +332,13 @@
       ],
       "title": "Android"
     },
-    "113": {
+    "112": {
       "description": "Wrap (Group Picture &amp; Networking)",
       "title": "Wrap (Group Picture &amp; Networking)"
     },
-    "114": {
+    "113": {
       "description": "After Party",
+      "language": "English",
       "title": "After Party"
     }
   },
@@ -367,7 +355,7 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "",
-      "country": "",
+      "country": "Kaduna, Nigeria",
       "featured": true,
       "name": "Aminu Bin Ibrahim",
       "photo": "/images/people/aminu_ibrahim.jpg",
@@ -405,9 +393,9 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "",
-      "country": "",
+      "country": "Kaduna, Nigeria",
       "featured": true,
-      "name": "Aminu Ibrahim",
+      "name": "Nnamdi",
       "photo": "",
       "photoUrl": "",
       "shortBio": "Lead Google Cloud Developer Community Kaduna.",
@@ -428,7 +416,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 8,
+      "order": 2,
       "title": "Webmaster"
     },
     "robert_john": {
@@ -448,7 +436,7 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "",
-      "country": "",
+      "country": "Kaduna, Nigeria",
       "featured": true,
       "name": "Robert John",
       "photo": "/images/people/robert_john.jpg",
@@ -476,7 +464,7 @@
           "name": "Linkedin"
         }
       ],
-      "order": 2,
+      "order": 3,
       "title": ""
     },
     "savics": {
@@ -514,7 +502,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 3,
+      "order": 4,
       "title": "Webmaster"
     },
     "mubarak_aminu": {
@@ -529,7 +517,7 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "",
-      "country": "",
+      "country": "Kaduna, Nigeria",
       "featured": true,
       "name": "Mubarak Aminu",
       "photo": "/images/people/mubarak.jpg",
@@ -552,7 +540,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 4,
+      "order": 5,
       "title": ""
     },
     "nafiu_garba": {
@@ -567,7 +555,7 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "",
-      "country": "",
+      "country": "Kaduna, Nigeria",
       "featured": true,
       "name": "Nafiu Garba",
       "photo": "/images/people/nafiyu_garba.jpg",
@@ -590,7 +578,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 5,
+      "order": 6,
       "title": ""
     },
     "aliyu_sabiu": {
@@ -605,7 +593,7 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "",
-      "country": "",
+      "country": "Kaduna, Nigeria",
       "featured": true,
       "name": "Aliyu Sabiu",
       "photo": "/images/people/aliyu_sabiu.jpg",
@@ -628,7 +616,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 6,
+      "order": 7,
       "title": ""
     }
   },
