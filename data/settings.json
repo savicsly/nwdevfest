@@ -204,16 +204,16 @@
   },
   "contentLoaders": {
     "schedule": {
-      "itemsCount": 2
+      "itemsCount": 10
     },
     "blog": {
       "itemsCount": 3
     },
     "speakers": {
-      "itemsCount": 4
+      "itemsCount": 8
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 1
     }
   }
 }

@@ -3,7 +3,7 @@
     "nwdevfest18-announced": {
       "backgroundColor": "#2196F3",
       "brief": "It is official. GDG DevFest North West 2018 is going to take place in Kaduna, on November 10.",
-      "content": "It is official. GDG DevFest North West 2018 is going to take place in **Kaduna, on November 10**.  Described by many as \"Google I/O of Ukraine\", DevFest has grown from the small 100-people event to the biggest Google tech conference in the Central and Eastern Europe. This year, we expect over 900 engineers, managers, and entrepreneurs from over 20 countries come to DevFest to learn about Android, Web and Cloud technologies, and to experience the phenomenal atmosphere.  ## What to expect?  **3 parallel Tracks and Workshops Area.** You asked, we did. We're building an additional stage and expanding Workshops Area to highlight even more topics and provide more hands-on time.  **Only experience based presentations.** Speakers from product companies like Google, Intel, Amazon, and Twilio. We take talk selection seriously. Our program committee carefully screens each and every submission.  **Expo Area.** Smart home, IoT, AR/VR devices, face emotions recognition using Google Cloud. Interested? With the help of GDG groups from all around Ukraine, DevFest is going to feature the biggest Expo Area on Google related devices and technologies.  **Unique networking and party.** Network with other like-minded industry colleagues and DevFest partners throughout the event and after-party.  <div layout horizontal center-justified> <a href=\"https://2event.com/events/800690\" rel=\"noopener noreferrer\">   <paper-button primary>Buy ticket</paper-button> </a> </div>   ## Stay in touch  We've already got first confirmations from speakers from Google, Twilio and Telerik. Subscribe to [DevFest newsletter](https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe) or follow us on [Facebook](https://www.facebook.com/devfest.ukraine/), [Twitter](https://twitter.com/devfest_ukraine) and [Instagram](https://www.instagram.com/devfestukraine) not to miss new speakers announcements and conference updates.   <span><i> We can't wait to meet you in Lviv, the rising tech capital of Ukraine.</br> GDG DevFest Ukraine Team. </i></span>",
+      "content": "North West GDGs are proud to announce the annual GDG DevFest for 2018. It is the largest Google related event in the North West region of Nigeria. The event will be held on the 10th November 2018 in Kaduna. Come and join us for a fun filled event and benefit in the company of coders, hackers, geeks and experts in the tech industry. <br> What to expect <br> <strong>Awesome speakers</strong> – 10 sessions taken by top notch developers from four (4) GDG chapters including GDG Kaduna, GDG Zaria, GDG Kafanchan and GDG Cloud Community Kaduna. <br> <strong>Hot topics</strong> – Taken from Android, Web, Cloud technologies and Community Management; no marketing bs, only technical content! Dedicated audience – this year we expect around 500 participants. <strong>Venue</strong> – Kaduna ICT Hub 47 Kanta Road / Independence Way, Kaduna, Nigeria, follow us on Twitter or add us to your circles on Google+. And most importantly: Think out of the box. Create what you want !",
       "image": "/images/posts/dfua17-announced.jpg",
       "published": "2018-10-11",
       "source": "/data/posts/2018-10-11-nwdevfest18-announced.md",
@@ -35,81 +35,21 @@
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164"
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
         }
       ],
       "order": 0,
-      "title": "Template Creator"
+      "title": "Event Sponsor"
     },
     {
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 3,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 5,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 6,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 7,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 8,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 9,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 10,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "logoUrl": "../images/logos/kadicthub.png",
+          "name": "KadICT Hub",
+          "url": "https://kadicthub.com/"
         }
       ],
       "order": 1,
@@ -545,6 +485,130 @@
     }
   },
   "speakers": {
+    "aminu_ibrahim": {
+      "badges": [
+        {
+          "description": "Google Cloud Developer Community Kaduna",
+          "link": "https://www.meetup.com/GCDCKaduna/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "featured": true,
+      "name": "Aminu Bin Ibrahim",
+      "photo": "/images/people/aminu_ibrahim.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aminu_bin.jpeg?alt=media&token=bbc12aea-6f3d-4a0a-be65-7488c6bb385a",
+      "shortBio": "Lead Google Cloud Developer Community Kaduna.",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "",
+          "name": "Google+"
+        },
+        {
+          "icon": "twitter",
+          "link": "http://twitter.com/ameenubi/",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 3,
+      "title": ""
+    },
+    "nnamdi": {
+      "badges": [
+        {
+          "description": "Google Developer Group Kaduna",
+          "link": "https://www.meetup.com/GCDCKaduna/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "featured": true,
+      "name": "Aminu Ibrahim",
+      "photo": "",
+      "photoUrl": "",
+      "shortBio": "Lead Google Cloud Developer Community Kaduna.",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/u/0/118143942632321563925/",
+          "name": "Google+"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/savics",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://facebook.com/savics",
+          "name": "Twitter"
+        }
+      ],
+      "order": 3,
+      "title": "Webmaster"
+    },
+    "robert_john": {
+      "badges": [
+        {
+          "description": "Google Developer Expert Machine Learning",
+          "link": "https://developers.google.com/experts/people/robert-john",
+          "name": "gde"
+        },
+        {
+          "description": "Google Developer Group Kaduna",
+          "link": "https://www.meetup.com/GCDCKaduna/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Robert has worked with databases and developed enterprise software for over a decade. He recently transitioned to the field of Machine Learning and Data Visualization. Robert contributes to the developer ecosystem by hosting meetups, codelabs, and tutorials. He also writes articles on Medium about data visualization, machine learning, and Google Cloud Platform. Robert is Coursera mentor, and is a co-organizer of Google Cloud Developer Community, Kaduna.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "featured": true,
+      "name": "Robert John",
+      "photo": "/images/people/robert_john.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/robert_john.jpg?alt=media&token=ab9fd849-e5a8-4258-9af5-361038621563",
+      "shortBio": "Co-Lead Google Cloud Developer Community Kaduna.",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/109381795230983416800",
+          "name": "Google+"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/robert_thas",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/johnthas",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/robert-john-b137952b/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 3,
+      "title": ""
+    },
     "savics": {
       "badges": [
         {
@@ -555,7 +619,7 @@
       ],
       "bio": "Victor is a full-stack developer and a #1 fan of dev communities. He loves VueJS but has since recently developed feelings for ReactJs too. He strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code he writes. If he had super powers, he would smiley all the things.",
       "company": "Bingham University",
-      "companyLogo": "/images/logos/gdg-lviv.svg",
+      "companyLogo": "/images/logos/bhu_logo",
       "companyLogoUrl": "http://binghamuni.edu.ng",
       "country": "Abuja, Nigeria",
       "featured": true,
@@ -582,6 +646,120 @@
       ],
       "order": 3,
       "title": "Webmaster"
+    },
+    "mubarak_aminu": {
+      "badges": [
+        {
+          "description": "Google Developer Group Kaduna",
+          "link": "https://www.meetup.com/GDG-Kaduna",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Freelance web developer and lead content developer at techarewa.com",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "featured": true,
+      "name": "Mubarak Aminu",
+      "photo": "/images/people/mubarak.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/mubarak.jpeg?alt=media&token=fceb88db-d055-4908-b70b-e74ed3b7a86f",
+      "shortBio": "Co-Lead Google Developer Group Kaduna.",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "",
+          "name": "Google+"
+        },
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 3,
+      "title": ""
+    },
+    "nafiu_garba": {
+      "badges": [
+        {
+          "description": "Google Developer Group Zaria",
+          "link": "https://www.meetup.com/GDG-Zaria",
+          "name": "gdg"
+        }
+      ],
+      "bio": "A full stack developer and into Artificial inteligence, Cloud Computing Blockchain, IoT and Entrepreneurship. Hobbies: playing Chess and Solving Rubik's Cube. Friends are very important to me. A team player",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "featured": true,
+      "name": "Nafiu Garba",
+      "photo": "/images/people/nafiyu_garba.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/nafiu_garba.jpeg?alt=media&token=7a6a11c0-d670-44a1-9462-77fc09149c98",
+      "shortBio": "Lead Google Developer Group Zaria.",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "",
+          "name": "Google+"
+        },
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 3,
+      "title": ""
+    },
+    "aliyu_sabiu": {
+      "badges": [
+        {
+          "description": "Google Developer Group Kaduna",
+          "link": "https://www.meetup.com/GDG-Kaduna",
+          "name": "gdg"
+        }
+      ],
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "featured": true,
+      "name": "Aliyu Sabiu",
+      "photo": "/images/people/aliyu_sabiu.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aliyu_sabiu.jpeg?alt=media&token=30413127-a616-4552-b025-75b25c8191f1",
+      "shortBio": "Co-Lead Google Developer Group Kaduna.",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "",
+          "name": "Google+"
+        },
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 3,
+      "title": ""
     }
   },
   "team": [
@@ -826,8 +1004,8 @@
       "available": true,
       "currency": "$",
       "ends": "Nov 10",
-      "info": "Requires valid student/lecturer ID",
-      "name": "EDU",
+      "info": "Registeration is Free",
+      "name": "Ticket",
       "price": 0,
       "soldOut": false,
       "starts": "Oct 1",
