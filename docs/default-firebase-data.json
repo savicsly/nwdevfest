@@ -11,14 +11,14 @@
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0034.JPG?alt=media&token=7eb981b7-aa7b-4c08-be4b-c7369a0d36a9",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0070.JPG?alt=media&token=34d8d77f-30a9-4689-b471-0913b7bf6d46",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0135.JPG?alt=media&token=18db4eee-c53d-4200-9167-80d399893d21",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0006.jpg?alt=media&token=45fd6526-6dcf-42bd-898d-9b676dd832a3",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0012.JPG?alt=media&token=a6191757-2a85-4665-b6f0-599088ee05be",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0035.JPG?alt=media&token=1f4ab528-ad63-4f51-9cd8-b7b5f6482626",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0057.JPG?alt=media&token=66f4ffac-c727-4c97-a9c8-300433f24959",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0218.jpg?alt=media&token=cfb0fd56-028e-4a49-a8d1-cefaab44cbfc"
   ],
   "notifications": {
     "config": {
@@ -520,7 +520,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 3,
+      "order": 1,
       "title": ""
     },
     "nnamdi": {
@@ -558,7 +558,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 3,
+      "order": 8,
       "title": "Webmaster"
     },
     "robert_john": {
@@ -606,7 +606,7 @@
           "name": "Linkedin"
         }
       ],
-      "order": 3,
+      "order": 2,
       "title": ""
     },
     "savics": {
@@ -682,7 +682,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 3,
+      "order": 4,
       "title": ""
     },
     "nafiu_garba": {
@@ -720,7 +720,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 3,
+      "order": 5,
       "title": ""
     },
     "aliyu_sabiu": {
@@ -758,7 +758,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 3,
+      "order": 6,
       "title": ""
     }
   },

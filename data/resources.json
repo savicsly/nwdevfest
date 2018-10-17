@@ -54,26 +54,26 @@
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Participating GDGs",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "GDG Kaduna",
+          "url": "https://www.meetup.com/GDG-Kaduna/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "GDG Zaria",
+          "url": "https://www.meetup.com/GDG-Zaria/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
+          "name": "GDG Kafanchan",
+          "url": "https://www.meetup.com/gdgkaf/",
           "newTab": true
         },
         {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "GCDC Kaduna",
+          "url": "https://www.meetup.com/GCDCKaduna/",
           "newTab": true
         }
       ]
@@ -120,7 +120,7 @@
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of the North', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "Described by many as 'Google I/O of the North West Region', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "See how it was in 2017",
         "youtubeId": "TdpbgRgz6eE"
       }
@@ -200,7 +200,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "#nwdevfest17 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
