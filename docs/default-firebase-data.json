@@ -61,7 +61,7 @@
       "dateReadable": "November 10",
       "timeslots": [
         {
-          "endTime": "09:30",
+          "endTime": "10:00",
           "sessions": [
             {
               "items": [
@@ -72,7 +72,7 @@
           "startTime": "09:00"
         },
         {
-          "endTime": "10:00",
+          "endTime": "10:15",
           "sessions": [
             {
               "items": [
@@ -80,10 +80,10 @@
               ]
             }
           ],
-          "startTime": "09:30"
+          "startTime": "10:00"
         },
         {
-          "endTime": "11:00",
+          "endTime": "10:45",
           "sessions": [
             {
               "items": [
@@ -91,48 +91,65 @@
               ]
             }
           ],
-          "startTime": "10:00"
+          "startTime": "10:15"
         },
         {
-          "endTime": "11:15",
+          "endTime": "11:25",
           "sessions": [
             {
               "items": [
                 104
               ]
-            },
+            }
+          ],
+          "startTime": "10:45"
+        },
+        {
+          "endTime": "12:15",
+          "sessions": [
             {
               "items": [
                 105
               ]
-            },
+            }
+          ],
+          "startTime": "11:25"
+        },
+        {
+          "endTime": "12:45",
+          "sessions": [
             {
-              "extend": 3,
               "items": [
                 106
               ]
             }
           ],
-          "startTime": "11:00"
+          "startTime": "12:15"
         },
         {
-          "endTime": "11:30",
+          "endTime": "13:00",
           "sessions": [
             {
               "items": [
                 107
               ]
-            },
+            }
+          ],
+          "startTime": "12:45"
+        },
+        {
+          "endTime": "13:45",
+          "sessions": [
             {
               "items": [
                 108
               ]
             }
           ],
-          "startTime": "11:15"
+          "startTime": "13:00"
         },
         {
-          "endTime": "11:45",
+          "endTime": "14:30",
           "sessions": [
             {
               "items": [
@@ -140,154 +157,51 @@
               ]
             }
           ],
-          "startTime": "11:30"
+          "startTime": "13:45"
         },
         {
-          "endTime": "12:00",
+          "endTime": "15:00",
           "sessions": [
             {
               "items": [
                 110
               ]
-            },
+            }
+          ],
+          "startTime": "14:30"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
             {
               "items": [
                 111
               ]
-            },
+            }
+          ],
+          "startTime": "15:00"
+        },
+        {
+          "endTime": "17:00",
+          "sessions": [
             {
-              "extend": 2,
               "items": [
                 112
               ]
             }
           ],
-          "startTime": "11:450"
+          "startTime": "16:00"
         },
         {
-          "endTime": "12:45",
+          "endTime": "20:00",
           "sessions": [
             {
               "items": [
                 113
               ]
-            },
-            {
-              "items": [
-                114
-              ]
             }
           ],
-          "startTime": "12:00"
-        },
-        {
-          "endTime": "13:30",
-          "sessions": [
-            {
-              "items": [
-                115
-              ]
-            }
-          ],
-          "startTime": "12:40"
-        },
-        {
-          "endTime": "14:45",
-          "sessions": [
-            {
-              "items": [
-                116
-              ]
-            },
-            {
-              "items": [
-                117
-              ]
-            },
-            {
-              "extend": 3,
-              "items": [
-                118
-              ]
-            }
-          ],
-          "startTime": "13:30"
-        },
-        {
-          "endTime": "15:30",
-          "sessions": [
-            {
-              "items": [
-                119
-              ]
-            },
-            {
-              "items": [
-                120
-              ]
-            }
-          ],
-          "startTime": "14:45"
-        },
-        {
-          "endTime": "15:45",
-          "sessions": [
-            {
-              "items": [
-                121
-              ]
-            },
-            {
-              "items": [
-                122
-              ]
-            }
-          ],
-          "startTime": "15:30"
-        },
-        {
-          "endTime": "16:30",
-          "sessions": [
-            {
-              "items": [
-                123
-              ]
-            }
-          ],
-          "startTime": "15:45"
-        },
-        {
-          "endTime": "17:15",
-          "sessions": [
-            {
-              "items": [
-                124
-              ]
-            }
-          ],
-          "startTime": "16:30"
-        },
-        {
-          "endTime": "18:00",
-          "sessions": [
-            {
-              "items": [
-                125
-              ]
-            }
-          ],
-          "startTime": "17:15"
-        },
-        {
-          "endTime": "18:45",
-          "sessions": [
-            {
-              "items": [
-                126
-              ]
-            }
-          ],
-          "startTime": "18:00"
+          "startTime": "17:00"
         }
       ],
       "tracks": [
@@ -327,7 +241,7 @@
       "complexity": "Beginner",
       "description": "Google IoT",
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
+      "presentation": "",
       "speakers": [
         "nnamdi"
       ],
@@ -340,7 +254,7 @@
       "complexity": "Intermediate",
       "description": "TensorflowJs",
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
+      "presentation": "",
       "speakers": [
         "robert_john"
       ],
@@ -353,33 +267,20 @@
       "complexity": "Beginner",
       "description": "Progressive Web App",
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
+      "presentation": "",
       "speakers": [
         "savics"
       ],
       "tags": [
         "Web"
       ],
-      "title": "PWA"
+      "title": "PWA starter kit: build fast, scalable, modern apps with Web Components"
     },
     "107": {
       "complexity": "Beginner",
-      "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
+      "description": "",
       "extend": 2,
       "language": "English",
-      "speakers": [
-        "savics"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Introduction to Progressive Web Apps in Angular 2"
-    },
-    "108": {
-      "complexity": "Intermediate",
-      "description": "Firebase",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
       "speakers": [
         "mubarak_aminu"
       ],
@@ -387,6 +288,19 @@
         "Web"
       ],
       "title": "Firebase"
+    },
+    "108": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "robert_john"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Google Could Computing"
     },
     "109": {
       "description": "Lunch Break",
@@ -410,7 +324,7 @@
       "complexity": "Intermediate",
       "description": "Flutter",
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
+      "presentation": "",
       "speakers": [
         "nafiu_garba"
       ],
@@ -432,56 +346,12 @@
       "title": "Android"
     },
     "113": {
-      "description": "Wrap up group picture and networking",
-      "language": "English",
-      "title": "Wrap up group picture and networking"
+      "description": "Wrap (Group Picture &amp; Networking)",
+      "title": "Wrap (Group Picture &amp; Networking)"
     },
-    "132": {
-      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
-      "icon": "registration",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title": "Registration & morning Coffee"
-    },
-    "133": {
-      "description": "Foooooooood!",
-      "icon": "lunch",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title": "Lunch"
-    },
-    "134": {
-      "description": "Coffeeeeeee!",
-      "icon": "coffee-break",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-      "title": "Coffee break"
-    },
-    "135": {
-      "description": "Coffeeeeeee!",
-      "icon": "coffee-break",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
-      "title": "Morning coffee"
-    },
-    "136": {
-      "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-      "icon": "opening",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-      "language": "English",
-      "title": "GDG DevFest Ukraine 2016 Opening"
-    },
-    "138": {
-      "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title": "Conference closing and contest winners announcements"
-    },
-    "140": {
-      "description": "TBD",
-      "language": "English",
-      "title": "TBD"
-    },
-    "137": {
-      "description": "Afterparty is a great time to have some fun and meet new people",
-      "icon": "party",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-      "title": "Afterparty & Networking"
+    "114": {
+      "description": "After Party",
+      "title": "After Party"
     }
   },
   "speakers": {
