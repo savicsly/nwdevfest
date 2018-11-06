@@ -1,8 +1,8 @@
 {
   "organizer": {
-    "name": "GDG DevFest North West",
+    "name": "GDG DevFest Kaduna",
     "twitter": "nwdevfest",
-    "blog": "https://medium.com/gdg-lviv",
+    "blog": "#",
     "url": "http://nwdevfest.com/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
@@ -46,7 +46,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "building faster together",
+      "description": "Connect, Learn, Create and Share",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -175,8 +175,8 @@
   },
   "mailto": "devfest@gdg.org.ua",
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://nwdevfest.us19.list-manage.com/subscribe/post?u=20f4f41da4af7d132e5606b12&amp;id=1c8c858680",
+    "name": "mc-embedded-subscribe-form"
   },
   "signInProviders": {
     "providersData": [
@@ -213,7 +213,7 @@
       "itemsCount": 8
     },
     "tickets": {
-      "itemsCount": 1
+      "itemsCount": 500
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest North West 2018",
+  "title": "GDG DevFest Kaduna 2018",
   "description": "Connect, Learn, Create and Share",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "November 10, 2018",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, kaduna",
+  "dates": "November 17, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -37,7 +37,7 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG DevFest North West",
+          "name": "GDG DevFest Kaduna",
           "url": "https://nwdevfest.com/",
           "newTab": true
         },
@@ -72,7 +72,7 @@
           "newTab": true
         },
         {
-          "name": "GCDC Kaduna",
+          "name": "Google Cloud Developer Community Kaduna",
           "url": "https://www.meetup.com/GCDCKaduna/",
           "newTab": true
         }
@@ -219,12 +219,12 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Kaduna sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
     "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
+    "generalError": "Some error has occurred. Please, try again later.",
     "toast": "Successfully subscribed!"
   },
   "team": {
@@ -261,7 +261,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "GDG DevFest North West is proudly organized by GDG Kaduna, GDG Cloud Kaduna, GDG Zaria and GDG Kafanchan. GDG Kaduna is hosting DevFest North West 18",
+        "description": "GDG DevFest North West is proudly organized by GDG Kaduna, Google Cloud Developer Community Kaduna, GDG Zaria and GDG Kafanchan. GDG Kaduna is hosting DevFest North West 18",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
