@@ -58,7 +58,7 @@
   ],
   "schedule": {
     "2018-11-10": {
-      "dateReadable": "November 10",
+      "dateReadable": "November 17",
       "timeslots": [
         {
           "endTime": "10:00",
@@ -642,15 +642,10 @@
               "icon": "twitter",
               "link": "",
               "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "",
-              "name": "Blog"
             }
           ],
           "order": 0,
-          "title": "Lead GCDC Kaduna"
+          "title": "Lead Google Cloud Developer Community Kaduna"
         },
         {
           "name": "Robert John",
@@ -669,7 +664,7 @@
             }
           ],
           "order": 1,
-          "title": "Co-Lead GCDC Kaduna"
+          "title": "Co-Lead Google Cloud Developer Community Kaduna"
         },
         {
           "name": "Victor Bala",
@@ -680,6 +675,11 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/savics",
               "name": "Linkedin"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/savics",
+              "name": "Facebook"
             },
             {
               "icon": "twitter",
@@ -739,15 +739,15 @@
           "title": "Co-Lead Google Cloud Developer Community Kaduna"
         }
       ],
-      "title": "Core Team"
+      "title": "Organizers"
     }
   ],
   "tickets": [
     {
       "available": true,
       "currency": "N",
-      "ends": "Nov 10",
-      "info": "Registeration is Free",
+      "ends": "Nov 16",
+      "info": "Registration is Free",
       "name": "Ticket",
       "price": 0,
       "soldOut": false,

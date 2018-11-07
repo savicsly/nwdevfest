@@ -131,7 +131,7 @@
         "number": "500"
       },
       "days": {
-        "label": "Days",
+        "label": "Day",
         "number": "1"
       },
       "sessions": {
@@ -204,7 +204,7 @@
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://plus.google.com/photos/100822278527605598097/album/6204414730413931585"
+      "link": "https://goo.gl/8idZ6x"
     }
   },
   "mapBlock": {

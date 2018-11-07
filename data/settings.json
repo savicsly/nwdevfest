@@ -5,10 +5,10 @@
     "blog": "#",
     "url": "http://nwdevfest.com/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2018-11-17T09:00:00+01:00",
+  "endDate": "2018-11-17T20:00:00+01:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFestNW",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
@@ -109,15 +109,15 @@
     "short": "Kd, Nigeria",
     "address": "47 Kanta Road / Independence Way, Kaduna, Nigeria",
     "pointer": {
-      "latitude": 9.7545961,
-      "longitude": 6.8830302,
+      "latitude": 9.7405044,
+      "longitude": 6.8898011,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 9.7405044,
+      "longitude": 6.8898011
     },
-    "description": "DevFest NW 18 will take place at KadICT Hub a world class Hub that trains in web/ mobile app, hardware, AI, IoT, blockchain technologies."
+    "description": "DevFest Kaduna 2018 will take place at Kaduna ICT Hub a world class Hub that trains in web/mobile app, hardware, AI, IoT, blockchain technologies."
   },
   "mediaQueries": {
     "xs": {
@@ -173,7 +173,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "nwdevfest@gmail.com",
   "mailchimp": {
     "url": "https://nwdevfest.us19.list-manage.com/subscribe/post?u=20f4f41da4af7d132e5606b12&amp;id=1c8c858680",
     "name": "mc-embedded-subscribe-form"
@@ -210,7 +210,7 @@
       "itemsCount": 3
     },
     "speakers": {
-      "itemsCount": 8
+      "itemsCount": 12
     },
     "tickets": {
       "itemsCount": 500
