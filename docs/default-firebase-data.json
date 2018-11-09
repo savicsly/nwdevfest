@@ -8,17 +8,26 @@
       "published": "2018-10-11",
       "source": "/data/posts/2018-10-11-nwdevfest18-announced.md",
       "title": "Announcing GDG DevFest North West 2018"
+    },
+    "nwdevfest18-postponed": {
+      "backgroundColor": "#2196F3",
+      "brief": "DevFest Kaduna 2018 to now hold on 17th November 2018",
+      "content": "Due to some reasons beyond our control, The event which was scheduled to take place on 10th November 2018, is now to take place on 17th November 2018. This is to allow the organizers make adequate arrangement to host a befitting event",
+      "image": "/images/posts/gdgkaf.jpg",
+      "published": "2018-11-05",
+      "source": "/data/posts/2018-10-11-nwdevfest18-postponed.md",
+      "title": "GDG DevFest Kaduna 2018 Postponed."
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0034.JPG?alt=media&token=7eb981b7-aa7b-4c08-be4b-c7369a0d36a9",
-    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0070.JPG?alt=media&token=34d8d77f-30a9-4689-b471-0913b7bf6d46",
-    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0135.JPG?alt=media&token=18db4eee-c53d-4200-9167-80d399893d21",
-    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0006.jpg?alt=media&token=45fd6526-6dcf-42bd-898d-9b676dd832a3",
-    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0012.JPG?alt=media&token=a6191757-2a85-4665-b6f0-599088ee05be",
-    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0035.JPG?alt=media&token=1f4ab528-ad63-4f51-9cd8-b7b5f6482626",
-    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0057.JPG?alt=media&token=66f4ffac-c727-4c97-a9c8-300433f24959",
-    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/DSC_0218.jpg?alt=media&token=cfb0fd56-028e-4a49-a8d1-cefaab44cbfc"
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0009.jpg?alt=media&token=669d905b-3813-4967-bc51-ad5a95812025",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0018.jpg?alt=media&token=8675858e-3cde-4296-8824-044fc075cc04",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0020.jpg?alt=media&token=0b6d9ce6-c450-4a06-b37d-a3064a2b735f",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0096.jpg?alt=media&token=03f202ad-f277-44ae-bb0a-ed4ad4e3e385",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0178.jpg?alt=media&token=c14a7f6d-09ac-4a95-9943-5fdcbd153d71",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0204.jpg?alt=media&token=81cf7e3f-5e65-475b-b327-1b57732701f8",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0235.jpg?alt=media&token=14246390-bbad-4fcb-b709-ec9c2dc709c7",
+    "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/_DSC0246.jpg?alt=media&token=8bd70fe1-e6fa-48f8-9234-2c7511cfc638"
   ],
   "notifications": {
     "config": {
@@ -50,6 +59,18 @@
           "logoUrl": "../images/logos/kadicthub.png",
           "name": "KadICT Hub",
           "url": "https://kadicthub.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/colab.png",
+          "name": "CoLab",
+          "url": "http://colab.com.ng/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/payant.png",
+          "name": "Payant",
+          "url": "https://payant.ng/"
         }
       ],
       "order": 1,
@@ -356,15 +377,15 @@
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "Kaduna, Nigeria",
-      "featured": true,
+      "featured": false,
       "name": "Aminu Bin Ibrahim",
       "photo": "/images/people/aminu_ibrahim.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aminu_bin.jpeg?alt=media&token=bbc12aea-6f3d-4a0a-be65-7488c6bb385a",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aminu_bin.jpeg?alt=media&token=1495a48a-e4e0-4d30-8439-9245bdb80fb0",
       "shortBio": "Lead Google Cloud Developer Community Kaduna.",
       "socials": [
         {
           "icon": "gplus",
-          "link": "",
+          "link": "https://plus.google.com/+AminuIbrahim",
           "name": "Google+"
         },
         {
@@ -374,14 +395,19 @@
         },
         {
           "icon": "facebook",
-          "link": "",
-          "name": "Twitter"
+          "link": "https://www.facebook.com/aminubi",
+          "name": "Facebook"
+        },
+        {
+          "icon": "linkedin",
+          "link": "ng.linkedin.com/in/aminubi",
+          "name": "Linkedin"
         }
       ],
-      "order": 1,
+      "order": 0,
       "title": ""
     },
-    "nnamdi": {
+    "nnamdi_ajah": {
       "badges": [
         {
           "description": "Google Developer Group Kaduna",
@@ -394,30 +420,20 @@
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "Kaduna, Nigeria",
-      "featured": true,
-      "name": "Nnamdi",
-      "photo": "",
-      "photoUrl": "",
+      "featured": false,
+      "name": "Nnamdi Ajah",
+      "photo": "/images/people/aminu_ibrahim.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/nnamdi_ajah.jpeg?alt=media&token=b2c09cd2-9f11-4aae-8a54-8498ae6ec4d4",
       "shortBio": "Lead Google Cloud Developer Community Kaduna.",
       "socials": [
         {
-          "icon": "gplus",
-          "link": "https://plus.google.com/u/0/118143942632321563925/",
-          "name": "Google+"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/savics",
-          "name": "Twitter"
-        },
-        {
           "icon": "facebook",
-          "link": "https://facebook.com/savics",
+          "link": "",
           "name": "Twitter"
         }
       ],
-      "order": 2,
-      "title": "Webmaster"
+      "order": 1,
+      "title": ""
     },
     "robert_john": {
       "badges": [
@@ -440,14 +456,9 @@
       "featured": true,
       "name": "Robert John",
       "photo": "/images/people/robert_john.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/robert_john.jpg?alt=media&token=ab9fd849-e5a8-4258-9af5-361038621563",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/robert_john.jpg?alt=media&token=1c2adddf-2270-4e0d-ae90-da589245ca2a",
       "shortBio": "Co-Lead Google Cloud Developer Community Kaduna.",
       "socials": [
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/109381795230983416800",
-          "name": "Google+"
-        },
         {
           "icon": "twitter",
           "link": "https://twitter.com/robert_thas",
@@ -464,10 +475,10 @@
           "name": "Linkedin"
         }
       ],
-      "order": 3,
+      "order": 2,
       "title": ""
     },
-    "savics": {
+    "victor_bala": {
       "badges": [
         {
           "description": "Google Developers Group Kafanchan",
@@ -482,13 +493,13 @@
       "country": "Abuja, Nigeria",
       "featured": true,
       "name": "Victor Bala",
-      "photo": "/images/people/savics.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/me.jpg?alt=media&token=a6e7dd0d-63cb-4395-be61-67b30e2618e0",
+      "photo": "/images/people/victor_bala.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/victor_bala.jpg?alt=media&token=73d5e75a-a1a6-445c-ae10-e1ad0b7b941f",
       "shortBio": "Lead GDG Kafanchan and Director Startup Grind Kaduna.",
       "socials": [
         {
           "icon": "gplus",
-          "link": "https://plus.google.com/u/0/118143942632321563925/",
+          "link": "https://plus.google.com/+VictorBala1",
           "name": "Google+"
         },
         {
@@ -502,7 +513,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 4,
+      "order": 3,
       "title": "Webmaster"
     },
     "mubarak_aminu": {
@@ -514,21 +525,49 @@
         }
       ],
       "bio": "Freelance web developer and lead content developer at techarewa.com",
+      "company": "Tech Arewa",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Kaduna, Nigeria",
+      "featured": false,
+      "name": "Mubarak Aminu",
+      "photo": "/images/people/mubarak_aminu.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/mubarak_aminu.jpeg?alt=media&token=f69181b0-1af0-4e53-94cc-439b6769dac5",
+      "shortBio": "Co-Lead Google Developer Group Kaduna.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 4,
+      "title": ""
+    },
+    "nafiu_garba": {
+      "badges": [
+        {
+          "description": "Google Developer Group Zaria",
+          "link": "https://www.meetup.com/GDG-Zaria",
+          "name": "gdg"
+        }
+      ],
+      "bio": "A full stack developer and into Artificial intelligence, Cloud Computing Blockchain, IoT and Entrepreneurship. Hobbies: playing Chess and Solving Rubik's Cube. Friends are very important to me. A team player",
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "Kaduna, Nigeria",
-      "featured": true,
-      "name": "Mubarak Aminu",
-      "photo": "/images/people/mubarak.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/mubarak.jpeg?alt=media&token=fceb88db-d055-4908-b70b-e74ed3b7a86f",
-      "shortBio": "Co-Lead Google Developer Group Kaduna.",
+      "featured": false,
+      "name": "Nafiu Garba",
+      "photo": "/images/people/nafiu_garba.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/nafiu_garba.jpeg?alt=media&token=607e72ca-2b21-42ec-8ce2-1c932ba90e1d",
+      "shortBio": "Lead Google Developer Group Zaria.",
       "socials": [
-        {
-          "icon": "gplus",
-          "link": "",
-          "name": "Google+"
-        },
         {
           "icon": "twitter",
           "link": "",
@@ -541,44 +580,6 @@
         }
       ],
       "order": 5,
-      "title": ""
-    },
-    "nafiu_garba": {
-      "badges": [
-        {
-          "description": "Google Developer Group Zaria",
-          "link": "https://www.meetup.com/GDG-Zaria",
-          "name": "gdg"
-        }
-      ],
-      "bio": "A full stack developer and into Artificial inteligence, Cloud Computing Blockchain, IoT and Entrepreneurship. Hobbies: playing Chess and Solving Rubik's Cube. Friends are very important to me. A team player",
-      "company": "",
-      "companyLogo": "",
-      "companyLogoUrl": "",
-      "country": "Kaduna, Nigeria",
-      "featured": true,
-      "name": "Nafiu Garba",
-      "photo": "/images/people/nafiyu_garba.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/nafiu_garba.jpeg?alt=media&token=7a6a11c0-d670-44a1-9462-77fc09149c98",
-      "shortBio": "Lead Google Developer Group Zaria.",
-      "socials": [
-        {
-          "icon": "gplus",
-          "link": "",
-          "name": "Google+"
-        },
-        {
-          "icon": "twitter",
-          "link": "",
-          "name": "Twitter"
-        },
-        {
-          "icon": "facebook",
-          "link": "",
-          "name": "Twitter"
-        }
-      ],
-      "order": 6,
       "title": ""
     },
     "aliyu_sabiu": {
@@ -594,17 +595,45 @@
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "Kaduna, Nigeria",
-      "featured": true,
+      "featured": false,
       "name": "Aliyu Sabiu",
       "photo": "/images/people/aliyu_sabiu.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aliyu_sabiu.jpeg?alt=media&token=30413127-a616-4552-b025-75b25c8191f1",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aliyu_sabiu.jpeg?alt=media&token=f599fa5f-5c5c-4d39-a16c-7f60a98e4a27",
       "shortBio": "Co-Lead Google Developer Group Kaduna.",
       "socials": [
         {
-          "icon": "gplus",
+          "icon": "twitter",
           "link": "",
-          "name": "Google+"
+          "name": "Twitter"
         },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 6,
+      "title": ""
+    },
+    "victoria_samson": {
+      "badges": [
+        {
+          "description": "Google Cloud Developer Community Kaduna",
+          "link": "https://www.meetup.com/GDCDKaduna",
+          "name": "gdg"
+        }
+      ],
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Kaduna, Nigeria",
+      "featured": false,
+      "name": "Victoria Samson",
+      "photo": "/images/people/victoria_samson.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/victoria_samson.jpeg?alt=media&token=097d3344-79ab-4fe1-9cc5-90df7ddfa51d",
+      "shortBio": "WTM Google Cloud Developer Community Kaduna",
+      "socials": [
         {
           "icon": "twitter",
           "link": "",
@@ -617,6 +646,176 @@
         }
       ],
       "order": 7,
+      "title": ""
+    },
+    "joy_ajuluchukwu": {
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Kaduna, Nigeria",
+      "featured": false,
+      "name": "Joy Ajuluchukwu",
+      "photo": "/images/people/joy_ajuluchukwu.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/joy_ajuluchukwu.jpeg?alt=media&token=78d160d1-9898-4058-a237-f76144eb8252",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 8,
+      "title": ""
+    },
+    "yahya_opute": {
+      "badges": [
+        {
+          "description": "Google Developer Group Kaduna",
+          "link": "https://www.meetup.com/GDG-Kaduna",
+          "name": "gdg"
+        }
+      ],
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Kaduna, Nigeria",
+      "featured": false,
+      "name": "Yahya Opotu Ige Ali",
+      "photo": "/images/people/yahya_opute.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/yahya_opotu.jpg?alt=media&token=28d7c604-aa3b-4d0e-8792-8098ea9a1204",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 9,
+      "title": ""
+    },
+    "sanusi_ismaila": {
+      "bio": "",
+      "company": "CoLab",
+      "companyLogo": "images/logos/colab.png",
+      "companyLogoUrl": "http://colab.com.ng",
+      "country": "Kaduna, Nigeria",
+      "featured": true,
+      "name": "Sanusi Ismaila",
+      "photo": "/images/people/sanusi_ismaila.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/sanusi_ismaila.jpeg?alt=media&token=4dd79207-0195-4846-9be3-03e10986b356",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 10,
+      "title": ""
+    },
+    "aminu_bakori": {
+      "bio": "",
+      "company": "Payant",
+      "companyLogo": "images/logos/payant.png",
+      "companyLogoUrl": "http://payant.com",
+      "country": "Kaduna, Nigeria",
+      "featured": true,
+      "name": "Aminu Bakori",
+      "photo": "/images/people/aminu_bakori.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aminu_bakori.jpeg?alt=media&token=d5930aa7-6291-439e-8fd9-dbfc56687769",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 11,
+      "title": ""
+    },
+    "ibrahim_isa": {
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Kaduna, Nigeria",
+      "featured": false,
+      "name": "Ibrahim Isa",
+      "photo": "/images/people/ibrahim_isa.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/ibrahim_isa.jpeg?alt=media&token=14be37bc-2a01-4d93-b835-e58ddf391a48",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 12,
+      "title": ""
+    },
+    "umar_yusuf": {
+      "badges": [
+        {
+          "description": "Google Developer Group Kaduna",
+          "link": "https://www.meetup.com/GDG-Kaduna",
+          "name": "gdg"
+        }
+      ],
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Kaduna, Nigeria",
+      "featured": false,
+      "name": "Umar Yusuf",
+      "photo": "/images/people/umar_yusuf.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/umar_yusuf.jpeg?alt=media&token=06d0a048-416f-4439-bdcb-68be5e586188",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 13,
       "title": ""
     }
   },
@@ -745,7 +944,7 @@
   "tickets": [
     {
       "available": true,
-      "currency": "N",
+      "currency": "₦",
       "ends": "Nov 16",
       "info": "Registration is Free",
       "name": "Ticket",

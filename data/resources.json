@@ -145,7 +145,7 @@
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
+    "title": "Ticket",
     "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
