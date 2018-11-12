@@ -240,7 +240,7 @@
   },
   "sessions": {
     "101": {
-      "description": "Registration &amp; Tag Collection",
+      "description": "Registration & Tag Collection",
       "language": "English",
       "title": "Registration &amp; Tag Collection"
     },
@@ -290,7 +290,7 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        "savics"
+        "victor_bala"
       ],
       "tags": [
         "Web"
@@ -316,17 +316,17 @@
       "title": "Lunch Break"
     },
     "109": {
-      "complexity": "Intermediate",
-      "description": "Google Cloud Computing",
+      "complexity": "Beginner",
+      "description": "Keynote",
       "language": "English",
       "presentation": "",
       "speakers": [
-        "robert_john"
+        "victoria_samson"
       ],
       "tags": [
         "Cloud"
       ],
-      "title": "Google Cloud Computing"
+      "title": "Women in Tech (WIT) Keynote"
     },
     "110": {
       "complexity": "Intermediate",
@@ -339,7 +339,7 @@
       "tags": [
         "Flutter"
       ],
-      "title": "Flutter"
+      "title": "Blockchain"
     },
     "111": {
       "complexity": "Intermediate",
@@ -354,10 +354,70 @@
       "title": "Android"
     },
     "112": {
+      "complexity": "Intermediate",
+      "description": "Google Maps: The Tips and Tricks",
+      "language": "English",
+      "speakers": [
+        "joy_ajuluchukwu"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Google Maps: The Tips and Tricks"
+    },
+    "113": {
+      "complexity": "Beginner",
+      "description": "Developers Circle Keynote",
+      "language": "English",
+      "speakers": [
+        "sanusi_ismaila"
+      ],
+      "tags": [
+        "community"
+      ],
+      "title": "Developers Circle Keynote"
+    },
+    "114": {
+      "complexity": "Beginner",
+      "description": "Startups keynote",
+      "language": "English",
+      "speakers": [
+        "aminu_bakori"
+      ],
+      "tags": [
+        "startups"
+      ],
+      "title": "Startups keynote"
+    },
+    "115": {
+      "complexity": "Beginner",
+      "description": "Building resilient streaming systems (IoT)",
+      "language": "English",
+      "speakers": [
+        "nnamdi_ajah"
+      ],
+      "tags": [
+        "IoT"
+      ],
+      "title": "Building resilient streaming systems (IoT)"
+    },
+    "116": {
+      "complexity": "Beginner",
+      "description": "Flutter",
+      "language": "English",
+      "speakers": [
+        "umar_yusuf"
+      ],
+      "tags": [
+        "Flutter"
+      ],
+      "title": "Flutter"
+    },
+    "118": {
       "description": "Wrap (Group Picture &amp; Networking)",
       "title": "Wrap (Group Picture &amp; Networking)"
     },
-    "113": {
+    "119": {
       "description": "After Party",
       "language": "English",
       "title": "After Party"
@@ -867,7 +927,7 @@
         },
         {
           "name": "Victor Bala",
-          "photo": "/images/people/savics.jpg",
+          "photo": "/images/people/victor_bala.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/me.jpg?alt=media&token=a6e7dd0d-63cb-4395-be61-67b30e2618e0",
           "socials": [
             {
@@ -893,6 +953,25 @@
           ],
           "order": 2,
           "title": "Lead GDG Kafanchan"
+        },
+        {
+          "name": "Micha Y. Bala",
+          "photo": "/images/people/micha_bala.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/micha_bala.jpg?alt=media&token=4be16c15-8f68-424f-bf17-d4d27d294609",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/micah.bala",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/micahbala",
+              "name": "Twitter"
+            }
+          ],
+          "order": 6,
+          "title": "Co-Lead GDG Kafanchan"
         },
         {
           "name": "Mubarak Aminu",
@@ -935,7 +1014,7 @@
             }
           ],
           "order": 4,
-          "title": "Co-Lead Google Cloud Developer Community Kaduna"
+          "title": "WTM Google Cloud Developer Community Kaduna"
         }
       ],
       "title": "Organizers"

@@ -82,6 +82,15 @@
         fill: currentColor;
         animation: updown 2s infinite;
       }
+      .cta-text {
+        margin-top: 16px;
+      }
+      .highlight-font {
+        font-family: "Product Sans", arial, sans-serif;
+      }
+      .home-content {
+        text-transform: uppercase;
+      }
 
       @keyframes updown {
         0% {
@@ -145,13 +154,32 @@
         </div>
 
 
-        <div class="action-buttons" layout horizontal center-justified wrap>
-          <paper-button class="watch-video" on-tap="_playVideo" ga-on="click" ga-event-category="video" ga-event-action="watch"
-            ga-event-label="hero block - view highlights">
-            <iron-icon icon="hoverboard:movie"></iron-icon>
-            {$ viewHighlights $}
-          </paper-button>
-        </div>
+        <!--<div class="action-buttons" layout horizontal center-justified wrap>-->
+          <!--<paper-button class="watch-video" on-tap="_playVideo" ga-on="click" ga-event-category="video" ga-event-action="watch"-->
+            <!--ga-event-label="hero block - view highlights">-->
+            <!--<iron-icon icon="hoverboard:movie"></iron-icon>-->
+            <!--{$ viewHighlights $}-->
+          <!--</paper-button>-->
+        <!--</div>-->
+        <!--<div class="cta-text highlight-font">Join-->
+          <!--<div class="cta-elements" id="ctaElementsWrapper">-->
+            <!--<span data-initial="1">1</span>-->
+            <!--<span data-initial="0">0</span>-->
+            <!--<span data-initial="0">0</span>-->
+            <!--<span data-initial="0">0</span>-->
+            <!--<span data-initial=" "> </span>-->
+            <!--<span data-initial="t">t</span>-->
+            <!--<span data-initial="e">e</span>-->
+            <!--<span data-initial="c">c</span>-->
+            <!--<span data-initial="h">h</span>-->
+            <!--<span data-initial=" "> </span>-->
+            <!--<span data-initial="h">h</span>-->
+            <!--<span data-initial="e">e</span>-->
+            <!--<span data-initial="a">a</span>-->
+            <!--<span data-initial="d">d</span>-->
+            <!--<span data-initial="s">s</span>-->
+          <!--</div>-->
+        <!--</div>-->
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
           <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_2" x="0px" y="0px" viewBox="0 0 25.166666 37.8704414"
@@ -164,10 +192,10 @@
       </div>
     </hero-block>
     <about-block></about-block>
-    <speakers-block></speakers-block>
     <subscribe-block></subscribe-block>
-    <tickets-block></tickets-block>
+    <speakers-block></speakers-block>
     <gallery-block></gallery-block>
+    <tickets-block></tickets-block>
     <about-organizer-block></about-organizer-block>
     <latest-posts-block></latest-posts-block>
     <map-block></map-block>

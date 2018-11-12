@@ -43,7 +43,7 @@
     "home": {
       "description": "Connect, Learn, Create and Share",
       "background": {
-        "color": "#673ab7",
+        "color": "#131a20",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
