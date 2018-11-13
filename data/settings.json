@@ -37,6 +37,11 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -52,50 +57,50 @@
       "title": "Blog",
       "metaDescription": "Read stories from our team",
       "background": {
-        "color": "#FFF"
+        "color": "#131a20"
       },
-      "fontColor": "#424242"
+      "fontColor": "#FFF"
     },
     "speakers": {
       "title": "Speakers",
       "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
       "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
       "background": {
-        "color": "#FFF"
+        "color": "#131a20"
       },
-      "fontColor": "#424242"
+      "fontColor": "#FFF"
     },
     "schedule": {
       "title": "Schedule",
       "metaDescription": "Choose your sessions to visit",
       "background": {
-        "color": "#fff"
+        "color": "#131a20"
       },
-      "fontColor": "#424242"
+      "fontColor": "#fff"
     },
     "team": {
       "title": "Team",
       "metaDescription": "Get more info about organizers",
       "background": {
-        "color": "#fff"
+        "color": "#131a20"
       },
-      "fontColor": "#424242"
+      "fontColor": "#FFF"
     },
     "faq": {
       "title": "FAQs",
       "metaDescription": "Find you answer right here!",
       "background": {
-        "color": "#fff"
+        "color": "#131a20"
       },
-      "fontColor": "#424242"
+      "fontColor": "#FFF"
     },
     "cod": {
       "title": "Code Of Conduct",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
       "background": {
-        "color": "#fff"
+        "color": "#131a20"
       },
-      "fontColor": "#424242"
+      "fontColor": "#FFF"
     }
   },
   "location": {
@@ -104,13 +109,13 @@
     "short": "Kd, Nigeria",
     "address": "47 Kanta Road / Independence Way, Kaduna, Nigeria",
     "pointer": {
-      "latitude": 9.7405044,
-      "longitude": 6.8898011,
-      "zoom": 5
+      "latitude": 10.5282998,
+      "longitude": 7.4296704,
+      "zoom": 18
     },
     "mapCenter": {
-      "latitude": 9.7405044,
-      "longitude": 6.8898011
+      "latitude": 10.5282998,
+      "longitude": 7.4296704
     },
     "description": "DevFest Kaduna 2018 will take place at Kaduna ICT Hub a world class Hub that trains in web/mobile app, hardware, AI, IoT, blockchain technologies."
   },

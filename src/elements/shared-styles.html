@@ -6,7 +6,51 @@
   <template>
     <style>
       :host {
-      --dark-primary-color:#512DA8;--default-primary-color:#673AB7;--focused-color:#311B92;--light-primary-color:#D1C4E9;--text-primary-color:#FFFFFF;--accent-color:rgba(40, 228, 253, 1);--primary-background-color:#131a20;--primary-text-color:#FFFFFF;--secondary-text-color:#f7f7f7;--disabled-text-color:#BDBDBD;--divider-color:rgba(40, 228, 253, 0.1);--footer-background-color:#F5F5F5;--footer-text-color:var(--secondary-text-color);--gplus-color:#DF312D;--twitter-color:#4099FF;--facebook-color:#3B5998;--border-light-color:var(--divider-color);--error-color:#e64a19;--default-background-color:var(--primary-background-color);--secondary-background-color:#673AB7;--additional-background-color:#673AB7;--contrast-additional-background-color:#e8e8e8;--animation:0.3s cubic-bezier(0.4, 0, 0.2, 1);--slideAnimation:0.4s cubic-bezier(0, 0, 0.2, 1);--border-radius:5px;--box-shadow:2px -1px 7px 0 rgba(40, 228, 253, 0.3), -2px 3px 8px 0 rgba(131, 60, 251, 0.28);--box-shadow-primary-color:0 3px 3px -2px rgba(40, 228, 253, 0.3), 0 3px 4px 0 rgba(40, 228, 253, 0.3), 0 1px 8px 0 rgba(40, 228, 253, 0.3);--box-shadow-primary-color-hover:0 1px 3px -2px rgba(40, 228, 253, 0.4), 0 4px 5px 0 rgba(40, 228, 253, 0.4), 0 2px 9px 0 rgba(40, 228, 253, 0.4);--font-family:'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;--max-container-width:1440px;--gradient:linear-gradient(135deg, rgba(40, 228, 253, 1) 0%, rgba(131, 60, 251, 1) 100%);--gradient-alt:linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(15, 21, 25, 1) 95%, rgba(19, 26, 32, 1) 100%), radial-gradient(farthest-side at 0 0, rgba(255, 26, 198, .4), rgba(255, 26, 198, 0)), radial-gradient(farthest-side at 100% 0, rgba(60, 221, 221, .5), rgba(60, 221, 221, 0)), radial-gradient(farthest-side at 50% 0, rgba(255, 26, 198, .2), rgba(255, 26, 198, 0));--primary-color-transparent:rgba(40, 228, 253, 0.1);--primary-color-light:rgba(103, 58, 183, 0.8);--primary-color-white:#EDE7F6;--gde:#3d5afe;--wtm:#1de9b6;--gdg:#00B0ff;--general:#9E9E9E;--android:#78c257;--mobile:#3cc23e;--web:#2196f3;--cloud:#3f51b5;--community:#e91e63;--design:#E91E63;
+        --dark-primary-color:#512DA8;
+        --default-primary-color:#673AB7;
+        --focused-color:#311B92;
+        --light-primary-color:#D1C4E9;
+        --text-primary-color:#FFFFFF;
+        --accent-color:rgba(40, 228, 253, 1);
+        --primary-background-color:#131a20;
+        --primary-text-color:#FFFFFF;
+        --secondary-text-color:#f7f7f7;
+        --disabled-text-color:#BDBDBD;
+        --divider-color:rgba(40, 228, 253, 0.1);
+        --footer-background-color:#F5F5F5;
+        --footer-text-color:var(--secondary-text-color);
+        --gplus-color:#DF312D;
+        --twitter-color:#4099FF;
+        --facebook-color:#3B5998;
+        --border-light-color:var(--divider-color);
+        --error-color:#e64a19;
+        --default-background-color:var(--primary-background-color);
+        --secondary-background-color:#673AB7;
+        --additional-background-color:#673AB7;
+        --contrast-additional-background-color:#e8e8e8;
+        --animation:0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        --slideAnimation:0.4s cubic-bezier(0, 0, 0.2, 1);
+        --border-radius:5px;
+        --box-shadow:2px -1px 7px 0 rgba(40, 228, 253, 0.3), -2px 3px 8px 0 rgba(131, 60, 251, 0.28);
+        --box-shadow-primary-color:0 3px 3px -2px rgba(40, 228, 253, 0.3), 0 3px 4px 0 rgba(40, 228, 253, 0.3), 0 1px 8px 0 rgba(40, 228, 253, 0.3);
+        --box-shadow-primary-color-hover:0 1px 3px -2px rgba(40, 228, 253, 0.4), 0 4px 5px 0 rgba(40, 228, 253, 0.4), 0 2px 9px 0 rgba(40, 228, 253, 0.4);
+        --font-family:'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        --max-container-width:1440px;
+        --gradient:linear-gradient(135deg, rgba(40, 228, 253, 1) 0%, rgba(131, 60, 251, 1) 100%);
+        --gradient-alt:linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(15, 21, 25, 1) 95%, rgba(19, 26, 32, 1) 100%), radial-gradient(farthest-side at 0 0, rgba(255, 26, 198, .4), rgba(255, 26, 198, 0)), radial-gradient(farthest-side at 100% 0, rgba(60, 221, 221, .5), rgba(60, 221, 221, 0)), radial-gradient(farthest-side at 50% 0, rgba(255, 26, 198, .2), rgba(255, 26, 198, 0));
+        --primary-color-transparent:rgba(40, 228, 253, 0.1);
+        --primary-color-light:rgba(103, 58, 183, 0.8);
+        --primary-color-white:#EDE7F6;
+        --gde:#3d5afe;
+        --wtm:#1de9b6;
+        --gdg:#00B0ff;
+        --general:#9E9E9E;
+        --android:#78c257;
+        --mobile:#3cc23e;
+        --web:#2196f3;
+        --cloud:#3f51b5;
+        --community:#e91e63;
+        --design:#E91E63;
     }
 
     body {

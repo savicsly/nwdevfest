@@ -13,7 +13,7 @@
       "backgroundColor": "#2196F3",
       "brief": "DevFest Kaduna 2018 to now hold on 17th November 2018",
       "content": "Due to some reasons beyond our control, The event which was scheduled to take place on 10th November 2018, is now to take place on 17th November 2018. This is to allow the organizers make adequate arrangement to host a befitting event",
-      "image": "/images/posts/gdgkaf.jpg",
+      "image": "/images/posts/gdgkaf.png",
       "published": "2018-11-05",
       "source": "/data/posts/2018-10-11-nwdevfest18-postponed.md",
       "title": "GDG DevFest Kaduna 2018 Postponed."
@@ -93,7 +93,7 @@
           "startTime": "09:00"
         },
         {
-          "endTime": "10:15",
+          "endTime": "10:30",
           "sessions": [
             {
               "items": [
@@ -104,7 +104,7 @@
           "startTime": "10:00"
         },
         {
-          "endTime": "10:45",
+          "endTime": "11:00",
           "sessions": [
             {
               "items": [
@@ -112,10 +112,10 @@
               ]
             }
           ],
-          "startTime": "10:15"
+          "startTime": "10:30"
         },
         {
-          "endTime": "11:25",
+          "endTime": "11:30",
           "sessions": [
             {
               "items": [
@@ -123,10 +123,10 @@
               ]
             }
           ],
-          "startTime": "10:45"
+          "startTime": "11:00"
         },
         {
-          "endTime": "12:15",
+          "endTime": "12:00",
           "sessions": [
             {
               "items": [
@@ -134,10 +134,10 @@
               ]
             }
           ],
-          "startTime": "11:25"
+          "startTime": "11:30"
         },
         {
-          "endTime": "12:45",
+          "endTime": "12:30",
           "sessions": [
             {
               "items": [
@@ -145,7 +145,7 @@
               ]
             }
           ],
-          "startTime": "12:15"
+          "startTime": "12:00"
         },
         {
           "endTime": "13:00",
@@ -156,10 +156,84 @@
               ]
             }
           ],
-          "startTime": "12:45"
+          "startTime": "12:30"
         },
         {
-          "endTime": "13:45",
+          "endTime": "13:30",
+          "sessions": [
+            {
+              "items": [
+                121
+              ]
+            }
+          ],
+          "startTime": "13:00"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [
+                109
+              ]
+            },
+            {
+              "items": [
+                115
+              ]
+            },
+            {
+              "items": [
+                112
+              ]
+            }
+          ],
+          "startTime": "13:30"
+        },
+        {
+          "endTime": "14:30",
+          "sessions": [
+            {
+              "items": [
+                110
+              ]
+            },
+            {
+              "items": [
+                117
+              ]
+            },
+            {
+              "items": [
+                113
+              ]
+            }
+          ],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "15:00",
+          "sessions": [
+            {
+              "items": [
+                111
+              ]
+            },
+            {
+              "items": [
+                114
+              ]
+            },
+            {
+              "items": [
+                118
+              ]
+            }
+          ],
+          "startTime": "14:30"
+        },
+        {
+          "endTime": "17:00",
           "sessions": [
             {
               "items": [
@@ -167,195 +241,124 @@
               ]
             }
           ],
-          "startTime": "13:00"
-        },
-        {
-          "endTime": "14:30",
-          "sessions": [
-            {
-              "items": [
-                109
-              ]
-            }
-          ],
-          "startTime": "13:45"
-        },
-        {
-          "endTime": "15:00",
-          "sessions": [
-            {
-              "items": [
-                110
-              ]
-            }
-          ],
-          "startTime": "14:30"
-        },
-        {
-          "endTime": "16:00",
-          "sessions": [
-            {
-              "items": [
-                111
-              ]
-            }
-          ],
           "startTime": "15:00"
         },
         {
-          "endTime": "17:00",
+          "endTime": "18:00",
           "sessions": [
             {
               "items": [
-                112
+                119
               ]
             }
           ],
-          "startTime": "16:00"
+          "startTime": "17:00"
         },
         {
           "endTime": "20:00",
           "sessions": [
             {
               "items": [
-                113
+                120
               ]
             }
           ],
-          "startTime": "17:00"
+          "startTime": "18:00"
         }
       ],
       "tracks": [
         {
-          "title": "Expo hall"
+          "title": "Main Hall"
         },
         {
-          "title": "Conference hall"
+          "title": "Conference Room"
         },
         {
-          "title": "Workshops hall"
+          "title": "Up Stairs"
         }
       ]
     }
   },
   "sessions": {
     "101": {
-      "description": "Registration & Tag Collection",
+      "description": "Tag Collection & Light Breakfast",
+      "icon" : "registration",
       "language": "English",
-      "title": "Registration &amp; Tag Collection"
+      "title": "Registration/Tea Break"
     },
     "102": {
-      "description": "Keynote Address",
+      "description": "Talk on what is trending in Google Technology.",
       "icon": "opening",
       "language": "English",
       "speakers": [
         "aminu_ibrahim"
       ],
-      "title": "Keynote Address"
+      "title": "Developer Keynote"
     },
     "103": {
-      "description": "Breakfast",
+      "description": "Get to know about Kaduna developer’s community (Current Stage & Future Reach)",
       "language": "English",
-      "title": "Breakfast"
+      "speakers": [
+        "sanusi_ismaila"
+      ],
+      "title": "Community Keynote"
     },
     "104": {
-      "complexity": "Beginner",
-      "description": "Google IoT",
+      "description": "How to setup a startup. Looking at Payant.ng as a case study.",
       "language": "English",
-      "presentation": "",
       "speakers": [
-        "nnamdi"
+        "aminu_bakori"
       ],
       "tags": [
-        "IoT"
+        "keynote"
       ],
-      "title": "Google IoT"
+      "title": "Startups  Keynote"
     },
     "105": {
-      "complexity": "Intermediate",
-      "description": "TensorflowJs",
+      "description": "Women in Tech Keynote",
       "language": "English",
-      "presentation": "",
       "speakers": [
-        "robert_john"
+        ""
       ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Intro to TensorFlow"
+      "title": "Women in Tech Keynote"
     },
     "106": {
-      "complexity": "Beginner",
-      "description": "Progressive Web App",
+      "description": "Understanding the entrepreneurship side of a developer",
       "language": "English",
-      "presentation": "",
       "speakers": [
-        "victor_bala"
+        "isa_raphael"
       ],
-      "tags": [
-        "Web"
-      ],
-      "title": "PWA starter kit: build fast, scalable, modern apps with Web Components"
+      "title": "Tech Entrepreneur  Keynote"
     },
     "107": {
       "complexity": "Beginner",
-      "description": "Firebase",
-      "extend": 2,
+      "description": "What you need to know about firebase technology.",
       "language": "English",
       "speakers": [
         "mubarak_aminu"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "Android"
       ],
-      "title": "Firebase"
-    },
-    "108": {
-      "description": "Lunch Break",
-      "language": "English",
-      "title": "Lunch Break"
+      "title": "Firebase Tech Talk"
     },
     "109": {
       "complexity": "Beginner",
-      "description": "Keynote",
+      "description": "Progressive Web App (PWA)",
       "language": "English",
-      "presentation": "",
       "speakers": [
-        "victoria_samson"
+        "victor_bala"
       ],
       "tags": [
-        "Cloud"
+        "Web",
+        "Mobile"
       ],
-      "title": "Women in Tech (WIT) Keynote"
+      "title": "Progressive Web App (PWA)"
     },
     "110": {
-      "complexity": "Intermediate",
-      "description": "Flutter",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "nafiu_garba"
-      ],
-      "tags": [
-        "Flutter"
-      ],
-      "title": "Blockchain"
-    },
-    "111": {
-      "complexity": "Intermediate",
-      "description": "Android",
-      "language": "English",
-      "speakers": [
-        "yahya_ali"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android"
-    },
-    "112": {
-      "complexity": "Intermediate",
-      "description": "Google Maps: The Tips and Tricks",
+      "complexity": "Beginner",
+      "description": "Google Map",
       "language": "English",
       "speakers": [
         "joy_ajuluchukwu"
@@ -363,43 +366,67 @@
       "tags": [
         "Web"
       ],
-      "title": "Google Maps: The Tips and Tricks"
+      "title": "Google Map"
+    },
+    "111": {
+      "complexity": "Intermediate",
+      "description": "Action on Google",
+      "language": "English",
+      "speakers": [
+        "victoria_samson"
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "Action on Google"
+    },
+    "112": {
+      "complexity": "Beginner",
+      "description": "Android",
+      "language": "English",
+      "speakers": [
+        ""
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "Android"
     },
     "113": {
       "complexity": "Beginner",
-      "description": "Developers Circle Keynote",
+      "description": "Firebase",
       "language": "English",
       "speakers": [
-        "sanusi_ismaila"
+        "ibrahim_isa"
       ],
       "tags": [
-        "community"
+        "Firebase"
       ],
-      "title": "Developers Circle Keynote"
+      "title": "Firebase"
     },
     "114": {
       "complexity": "Beginner",
-      "description": "Startups keynote",
+      "description": "Flutter",
       "language": "English",
       "speakers": [
-        "aminu_bakori"
+        "umar_yusuf"
       ],
       "tags": [
-        "startups"
+        "Android"
       ],
-      "title": "Startups keynote"
+      "title": "Flutter"
     },
     "115": {
       "complexity": "Beginner",
-      "description": "Building resilient streaming systems (IoT)",
+      "description": "Block Chain",
       "language": "English",
       "speakers": [
-        "nnamdi_ajah"
+        "nafiu_garba"
       ],
       "tags": [
-        "IoT"
+        "Web"
       ],
-      "title": "Building resilient streaming systems (IoT)"
+      "title": "Block Chain"
     },
     "116": {
       "complexity": "Beginner",
@@ -413,14 +440,48 @@
       ],
       "title": "Flutter"
     },
+    "117": {
+      "complexity": "Beginner",
+      "description": "Internet of Things (IoT)",
+      "language": "English",
+      "speakers": [
+        "nnamdi_ajah"
+      ],
+      "tags": [
+        "Flutter"
+      ],
+      "title": "Internet of Things (IoT)"
+    },
     "118": {
-      "description": "Wrap (Group Picture &amp; Networking)",
-      "title": "Wrap (Group Picture &amp; Networking)"
+      "complexity": "Beginner",
+      "description": "Tensor Flow",
+      "language": "English",
+      "speakers": [
+        "robert_john"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "title": "Tensor Flow"
+    },
+    "108": {
+      "description": "Lunch Break",
+      "icon" : "lunch",
+      "title": "Lunch"
     },
     "119": {
+      "description": "Networking & Closing Remarks",
+      "title": "Networking & Closing Remarks"
+    },
+    "120": {
       "description": "After Party",
       "language": "English",
       "title": "After Party"
+    },
+    "121": {
+      "description": "Breakout Session (Codelabs)",
+      "language": "English",
+      "title": "Breakout Session (Codelabs)"
     }
   },
   "speakers": {
@@ -791,13 +852,13 @@
         }
       ],
       "order": 10,
-      "title": ""
+      "title": "Founder"
     },
     "aminu_bakori": {
       "bio": "",
       "company": "Payant",
       "companyLogo": "images/logos/payant.png",
-      "companyLogoUrl": "http://payant.com",
+      "companyLogoUrl": "http://payant.ng",
       "country": "Kaduna, Nigeria",
       "featured": true,
       "name": "Aminu Bakori",
@@ -817,7 +878,7 @@
         }
       ],
       "order": 11,
-      "title": ""
+      "title": "CEO"
     },
     "ibrahim_isa": {
       "bio": "",
@@ -862,6 +923,32 @@
       "name": "Umar Yusuf",
       "photo": "/images/people/umar_yusuf.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/umar_yusuf.jpeg?alt=media&token=06d0a048-416f-4439-bdcb-68be5e586188",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Twitter"
+        }
+      ],
+      "order": 13,
+      "title": ""
+    },
+    "isa_raphael": {
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Kaduna, Nigeria",
+      "featured": false,
+      "name": "Isa Raphael",
+      "photo": "/images/people/isa_raphael.jpg",
+      "photoUrl": "",
       "shortBio": "",
       "socials": [
         {

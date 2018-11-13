@@ -99,6 +99,11 @@
         margin-top: 24px;
       }
 
+      .color-box-shadow {
+        box-shadow: var(--box-shadow);
+        transition: box-shadow var(--animation);
+      }
+
       @media (min-width: 640px) {
         .photo {
           width: 128px;
@@ -149,7 +154,7 @@
 
       <div class="speakers-wrapper">
         <template is="dom-repeat" items="[[featuredSpeakers]]" as="speaker">
-          <div class="speaker"
+          <div class="speaker color-box-shadow-trigger"
                 on-tap="_openSpeaker"
                 ga-on="click"
                 ga-event-category="speaker"
@@ -157,7 +162,7 @@
                 ga-event-label$="[[speaker.name]]">
             <div relative>
               <plastic-image
-                class="photo"
+                class="photo color-box-shadow"
                 srcset="[[speaker.photoUrl]]"
                 sizing="cover"
                 lazy-load preload fade

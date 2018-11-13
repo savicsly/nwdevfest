@@ -50,6 +50,11 @@
         margin-right: 8px;
       }
 
+      .color-box-shadow {
+        box-shadow: var(--box-shadow);
+        transition: box-shadow var(--animation);
+      }
+
       @media (min-width: 812px) {
         :host {
           margin-left: auto;
@@ -120,7 +125,7 @@
             layout vertical>
             <template is="dom-repeat" items="[[session.items]]" as="subSession">
               <session-element
-                class="subsession"
+                class="subsession color-box-shadow-trigger color-box-shadow"
                 day-name="[[name]]"
                 session="[[subSession]]"
                 user="[[user]]"
