@@ -970,6 +970,54 @@
     {
       "members": [
         {
+          "name": "Victor Bala",
+          "photo": "/images/people/victor_bala.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/me.jpg?alt=media&token=a6e7dd0d-63cb-4395-be61-67b30e2618e0",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/savics",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/savics",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/savics",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "http://savics.me/",
+              "name": "Blog"
+            }
+          ],
+          "order": 1,
+          "title": "Lead GDG Kafanchan"
+        },
+        {
+          "name": "Micha Y. Bala",
+          "photo": "/images/people/micha_bala.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/micha_bala.jpg?alt=media&token=4be16c15-8f68-424f-bf17-d4d27d294609",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/micah.bala",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/micahbala",
+              "name": "Twitter"
+            }
+          ],
+          "order": 4,
+          "title": "Co-Lead GDG Kafanchan"
+        },
+        {
           "name": "Aminu Bin Ibrahim",
           "photo": "/images/people/aminu_ibrahim.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aminu_bin.jpeg?alt=media&token=bbc12aea-6f3d-4a0a-be65-7488c6bb385a",
@@ -1009,75 +1057,8 @@
               "name": "Facebook"
             }
           ],
-          "order": 1,
-          "title": "Co-Lead Google Cloud Developer Community Kaduna"
-        },
-        {
-          "name": "Victor Bala",
-          "photo": "/images/people/victor_bala.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/me.jpg?alt=media&token=a6e7dd0d-63cb-4395-be61-67b30e2618e0",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/savics",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/savics",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/savics",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://savics.me/",
-              "name": "Blog"
-            }
-          ],
-          "order": 2,
-          "title": "Lead GDG Kafanchan"
-        },
-        {
-          "name": "Micha Y. Bala",
-          "photo": "/images/people/micha_bala.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/micha_bala.jpg?alt=media&token=4be16c15-8f68-424f-bf17-d4d27d294609",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/micah.bala",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/micahbala",
-              "name": "Twitter"
-            }
-          ],
-          "order": 6,
-          "title": "Co-Lead GDG Kafanchan"
-        },
-        {
-          "name": "Mubarak Aminu",
-          "photo": "/images/people/mubarak.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/mubarak.jpeg?alt=media&token=fceb88db-d055-4908-b70b-e74ed3b7a86f",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "",
-              "name": "Facebook"
-            }
-          ],
           "order": 3,
-          "title": "Co-Lead GDG Kaduna"
+          "title": "Co-Lead Google Cloud Developer Community Kaduna"
         },
         {
           "name": "Victoria Samson",
@@ -1100,8 +1081,173 @@
               "name": "Twitter"
             }
           ],
-          "order": 4,
+          "order": 7,
           "title": "WTM Google Cloud Developer Community Kaduna"
+        },
+        {
+          "name": "Yahya Opotu Ige Ali",
+          "photo": "/images/people/yahaya_opute.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/yahya_opotu.jpg?alt=media&token=28d7c604-aa3b-4d0e-8792-8098ea9a1204",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "",
+              "name": "Facebook"
+            }
+          ],
+          "order": 2,
+          "title": "Lead GDG Kaduna"
+        },
+        {
+          "name": "Mubarak Aminu",
+          "photo": "/images/people/mubarak.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/mubarak.jpeg?alt=media&token=fceb88db-d055-4908-b70b-e74ed3b7a86f",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "",
+              "name": "Facebook"
+            }
+          ],
+          "order": 6,
+          "title": "Co-Lead GDG Kaduna"
+        },
+        {
+          "name": "Aliyu Sabiu",
+          "photo": "/images/people/aliyu_sabiu.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aliyu_sabiu.jpeg?alt=media&token=f599fa5f-5c5c-4d39-a16c-7f60a98e4a27",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "",
+              "name": "Facebook"
+            }
+          ],
+          "order": 7,
+          "title": "Co-Lead GDG Kaduna"
+        },
+        {
+          "name": "Kamilat Sanni",
+          "photo": "/images/people/kamilat_sanni.jpg",
+          "photoUrl": "",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "",
+              "name": "Facebook"
+            }
+          ],
+          "order": 8,
+          "title": "Co-Lead GDG Kaduna"
+        },
+        {
+          "name": "Nafiu Garba",
+          "photo": "/images/people/nafiu_garba.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/nafiu_garba.jpeg?alt=media&token=607e72ca-2b21-42ec-8ce2-1c932ba90e1d",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "",
+              "name": "Facebook"
+            }
+          ],
+          "order": 8,
+          "title": "Lead GDG Zaria"
+        },
+        {
+          "name": "Ahmed Muhammed",
+          "photo": "/images/people/ahmed_muhammed.jpg",
+          "photoUrl": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "http://twitter.com/muhahmed0145/",
+              "name": "Twitter"
+            }
+          ],
+          "order": 8,
+          "title": "Co-Lead GDG Zaria"
+        },
+        {
+          "name": "Junior Peter",
+          "photo": "/images/people/junior_peter.jpg",
+          "photoUrl": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "",
+              "name": "Twitter"
+            }
+          ],
+          "order": 8,
+          "title": "Co-Lead GDG Zaria"
+        },
+        {
+          "name": "Sufia Saleh",
+          "photo": "/images/people/sufia_saleh.jpg",
+          "photoUrl": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "",
+              "name": "Twitter"
+            }
+          ],
+          "order": 8,
+          "title": "Co-Lead GDG Zaria"
+        },
+        {
+          "name": "Safiyyah",
+          "photo": "/images/people/safiyyah.jpg",
+          "photoUrl": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "",
+              "name": "Twitter"
+            }
+          ],
+          "order": 8,
+          "title": "Co-Lead GDG Zaria"
+        },
+        {
+          "name": "Sani Hauwa Fadal",
+          "photo": "/images/people/sani_hauwa_fadal.jpg",
+          "photoUrl": "",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "",
+              "name": "Twitter"
+            }
+          ],
+          "order": 8,
+          "title": "Co-Lead GDG Zaria"
         }
       ],
       "title": "Organizers"
