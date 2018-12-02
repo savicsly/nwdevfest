@@ -71,6 +71,12 @@
           "logoUrl": "../images/logos/payant.png",
           "name": "Payant",
           "url": "https://payant.ng/"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/atlassian.jpeg",
+          "name": "Atlassian",
+          "url": "https://aug.atlassian.com/keffi"
         }
       ],
       "order": 1,
@@ -545,7 +551,7 @@
       "name": "Nnamdi Ajah",
       "photo": "/images/people/aminu_ibrahim.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/nnamdi_ajah.jpeg?alt=media&token=b2c09cd2-9f11-4aae-8a54-8498ae6ec4d4",
-      "shortBio": "Lead Google Cloud Developer Community Kaduna.",
+      "shortBio": "",
       "socials": [
         {
           "icon": "facebook",
@@ -779,16 +785,16 @@
       "name": "Joy Ajuluchukwu",
       "photo": "/images/people/joy_ajuluchukwu.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/joy_ajuluchukwu.jpeg?alt=media&token=78d160d1-9898-4058-a237-f76144eb8252",
-      "shortBio": "",
+      "shortBio": "Community Manager CoLab",
       "socials": [
         {
           "icon": "twitter",
-          "link": "",
+          "link": "https://twitter.com/joyajulz",
           "name": "Twitter"
         },
         {
           "icon": "facebook",
-          "link": "",
+          "link": "https://www.facebook.com/ajulz",
           "name": "Twitter"
         }
       ],
@@ -812,7 +818,7 @@
       "name": "Yahya Opotu Ige Ali",
       "photo": "/images/people/yahya_opute.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/yahya_opotu.jpg?alt=media&token=28d7c604-aa3b-4d0e-8792-8098ea9a1204",
-      "shortBio": "",
+      "shortBio": "Lead GDG Kaduna",
       "socials": [
         {
           "icon": "twitter",
@@ -838,21 +844,21 @@
       "name": "Sanusi Ismaila",
       "photo": "/images/people/sanusi_ismaila.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/sanusi_ismaila.jpeg?alt=media&token=4dd79207-0195-4846-9be3-03e10986b356",
-      "shortBio": "",
+      "shortBio": "Founder CoLab",
       "socials": [
         {
           "icon": "twitter",
-          "link": "",
+          "link": "https://twitter.com/supersanusi",
           "name": "Twitter"
         },
         {
           "icon": "facebook",
-          "link": "",
+          "link": "https://www.facebook.com/sanusi.ismaila",
           "name": "Twitter"
         }
       ],
       "order": 10,
-      "title": "Founder"
+      "title": "Founder CoLab"
     },
     "aminu_bakori": {
       "bio": "",
@@ -864,16 +870,16 @@
       "name": "Aminu Bakori",
       "photo": "/images/people/aminu_bakori.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nwdevfest.appspot.com/o/aminu_bakori.jpeg?alt=media&token=d5930aa7-6291-439e-8fd9-dbfc56687769",
-      "shortBio": "",
+      "shortBio": "Founder Payant",
       "socials": [
         {
           "icon": "twitter",
-          "link": "",
+          "link": "https://twitter.com/Aminu_Bakori",
           "name": "Twitter"
         },
         {
           "icon": "facebook",
-          "link": "",
+          "link": "https://www.facebook.com/aminu.bakori",
           "name": "Twitter"
         }
       ],
