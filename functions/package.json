@@ -6,7 +6,9 @@
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "babel src --out-dir dist --source-maps",
-    "postbuild": "cpx ../build/index.html dist/"
+    "postbuild": "cpx ../build/index.html dist/",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "@google-cloud/storage": "^1.6.0",
@@ -18,7 +20,8 @@
     "md5": "^2.2.1",
     "mkdirp-promise": "^5.0.1",
     "moment": "^2.22.0",
-    "node-fetch": "^2.1.2"
+    "node-fetch": "^2.1.2",
+    "snyk": "^1.234.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.54",
@@ -26,5 +29,6 @@
     "@babel/preset-env": "^7.0.0-beta.54",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.54",
     "rimraf": "^2.6.2"
-  }
+  },
+  "snyk": true
 }
