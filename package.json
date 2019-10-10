@@ -17,13 +17,16 @@
     "serve:prod": "cross-env BUILD_ENV=production gulp serve",
     "lint": "gulp lint",
     "pretest": "npm run lint",
-    "test": "echo \"No tests\""
+    "test": "echo \"No tests\"",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "autotrack": "^2.4.1",
     "grpc": "^1.17.0-pre1",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "snyk": "^1.234.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.52",
@@ -63,5 +66,6 @@
     "node": ">=8.9.4"
   },
   "private": true,
-  "pre-commit": "lint"
+  "pre-commit": "lint",
+  "snyk": true
 }
