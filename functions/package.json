@@ -20,7 +20,7 @@
     "md5": "^2.2.1",
     "mkdirp-promise": "^5.0.1",
     "moment": "^2.22.0",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^2.6.1",
     "snyk": "^1.234.0"
   },
   "devDependencies": {
