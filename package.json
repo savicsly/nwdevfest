@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "autotrack": "^2.4.1",
-    "grpc": "^1.17.0-pre1",
+    "grpc": "^1.24.9",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "snyk": "^1.234.0"
